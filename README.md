@@ -15,10 +15,11 @@ data into useful and actionable information.
 3. Excel version of simulated data:
 [simulated_data.xlsx](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/simulated_data.xlsx)
 
-4. PDF of Jupyter Notebook:
-[tasks2020.pdf](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/blob/main/tasks2020.pdf)
-
 4. Images Folder
 [images](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/tree/main/images)
 
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
+
+### 2. Software used
+
+
