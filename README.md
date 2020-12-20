@@ -16,7 +16,7 @@ data into useful and actionable information.
 [simulated_data.xlsx](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/simulated_data.xlsx)
 
 4. Images Folder
-[images](https://github.com/Munster2020/HDIP_CSDA_COMP07084_TASKS/tree/main/images)
+[images](https://github.com/Munster2020//HDIP_CSDA_COMP08050_PROJECT/tree/main/images)
 
 If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
