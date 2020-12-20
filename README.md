@@ -22,4 +22,8 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 
 ### 2. Software used
 
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/JupyterN.png "Jupyter")
+![Jupyter](https://jupyter.org/) Jupyter is a free, open-source, interactive web tool known as a computational notebook, which researchers can use to combine software code, computational output, explanatory text and multimedia resources in a single document. (Source:downloads.com)
 
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/cmdr.png "Cmder")
+![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
