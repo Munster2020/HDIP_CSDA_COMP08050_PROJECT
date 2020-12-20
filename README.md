@@ -44,7 +44,27 @@ __Problem statement__: For this project you must create a data set by simulating
 
 Note that this project is about simulation – you must synthesise a data set.  Some students may already have some real-world data sets in their own files.  It is okay to base your synthesised data set on these should you wish (please reference it if you do),but the main task in this project is to create a synthesised data set.
 
+The project is divided into nine sections outlined below.
 
+__1.0__ Introduction
+
+__2.0__ Libraries
+
+__3.0__ Dataset
+
+__4.0__ Overview
+
+__5.0__ Detailed Analysis
+
+__6.0__ Flight Status
+
+__7.0__ Simulation
+
+__8.0__ Simulation Analysis
+
+__9.0__ Comparison
+
+__1.0 Introduction__: In this section I provide an overview of the real-world phenomenon I decided to generate my simulated data on. It also includes a brief introduction to simulation and synthetic data and an outline of where I sourced the dataset from. The real-world phenomenon I chose to look at related to aviation, more specifically information on flight delays at US airports and the type of delays experienced. I wanted to understand the relationship between flight delays and flight volume. I need to point out now that if I had had a chance to choose a dataset again, I would not have chosen this one. I will explain this in more detail later but suffice it to say the data had been cleansed already, was aggregated and had little categorical variables. In retrospect I should have chosen one that was a date series or time series for flights at an individual airport or more but which hadn’t been aggregated to a monthly view. I would also have liked if there had been more categorical variables with perhaps a status for individual flights.
 
 __Learnings__: From working on this task I developed my knowledge of functions and how to implement them. In order to solve the task the function created and implemented a for loop and populated a dictionary to capture the results. I also gained a better understanding of "argument specifiers". Further detail and references are included in the Jupyter Notebook. I also learned to download and add additional functionality in Jupyter Notebooks, including using the add-ons "Autopep8", "spellchecker" and "Table of Contents(2)". Autopep8 is excellent for formatting your code correctly, while spellchecker comes in handy in correcting those pesky spelling mistakes.
 
@@ -52,5 +72,5 @@ __Topics__: functions, for loops, dictionaries, lists, argument specifiers.
 
 ---
 
-
+__2.0 Libraries__:
 
