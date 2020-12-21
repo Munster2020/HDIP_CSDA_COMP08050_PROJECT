@@ -114,4 +114,25 @@ __Topics__: distplots, stripplots, Gumbel distribution, Scipy.
 
 ---
 
-__7.0 Simulation__:
+__7.0 Simulation__: This is where I generate the synthetic data using the distributions identified in the previous sections. We could only do this using the numpy.random.package. As well as generating the random data for the variables, I also had to create columns for totals.
+
+__Learnings__: I learned a lot from this section especially NumPy. Since I was trying to produce data closely aligned to the properties of my real-world phenomenon I ran into issues. Using the NumPy gumbel distribution did not allow setting a ceiling. Which meant it would generate more records than I wanted but would create the distribution I needed. It also generated negative numbers which I didn’t want but overcame using the “abs” function. I also learned how to output a dataframe to an excel file.
+
+__Topics__: NumPy, Gumbel distribution, concatenation, index reset, export dataframe to excel.
+
+---
+
+__8.0 Simulation Analysis__: In this section I created two statistical summaries of the original and synthetic dataset as well as using df.info() to check that thae data types where the same and that I had no null values. 
+
+---
+
+__9.0 Comparison__: Finally I produced scatterplots of each of the numeric variables to see how aligned they are and bar plots of total flights by year and month. I also displayed the simulated dataset in an output cell within the Jupyter notebook.
+
+__Learnings__: Here I learned how to concatenate the two dataframes using "assign" so that I could compare the original and synthetic data against each other.
+
+---
+
+### 4. Conclusion
+
+
+
