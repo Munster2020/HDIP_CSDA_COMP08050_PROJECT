@@ -90,4 +90,12 @@ __Topics__: feature engineering, tables in Jupyter, dataframes, conditional argu
 
 ---
 
-__4.0 Overview__: 
+__4.0 Overview__: In section 4 I provide a quick overview of flight volumes by year and month. I also look at airport capacity and the factors that limit it. There is also a description of the relationship between capacity, demand and delay. There is also an outline of the busiest days experienced by airports in the US. I included a plot displaying the relationship between delays and flight volumes which indicates a positive correlation between the two. This follows through at an individual airport level as well.
+
+__Learnings__: This section taught me how to display data using bar plots and the application of the “estimator=sum” function. I also learned about the relationship between flight volumes and flight delays.
+
+__Topics__: barplots, lmplots, airport capacity, col_wraps, sharex and sharey in Seaborn.
+
+---
+
+__5.0 Detailed Analysis__: 
