@@ -82,5 +82,10 @@ __Topics__: libraries, Pandas, NumPy, SciPy, retina display magic command.
 
 ---
 
-__3.0 Dataset__: 
+__3.0 Dataset__: This section covers importing the data from the CORGIS website, renaming and ordering the variables and splitting some variables into additional information. I also only select the top 5 US airports  from the dataset and provide a brief description of them.  Because the dataset only provides partial information for 2003 and 2016 I dropped those years.
 
+__Learnings__: As I worked on this section, I got a better understanding of manipulating and viewing datasets. I found out how to display all columns in Jupyter by using the “pd.set_option(display.max_columns, none)” and how to select only certain variables from a dataset by using conditional arguments. I also learned of feature engineering , particularly splitting variables into useable data which can add the ability for further analysis.
+
+__Topics__: feature engineering, tables in Jupyter, dataframes, conditional arguments.
+
+---
