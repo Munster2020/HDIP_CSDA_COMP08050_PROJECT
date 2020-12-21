@@ -28,6 +28,9 @@ If you have any issues viewing tasks2020.ipynb in github you can use Jupyter NBV
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/cmdr.png "Cmder")
 ![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/Scipy.png "Scipy")
+![SciPy](https://www.scipy.org/) is a scientific computation library that uses NumPy underneath. SciPy stands for Scientific Python. It provides more utility functions for optimization, stats and signal processing. (Source:w3schools.com)
+
 ---
 ### 3. Project
 
