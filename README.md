@@ -106,4 +106,12 @@ __Topics__: heatmaps, Perason’s correlation method, stripplots, Gumbel distrib
 
 ---
 
-__6.0 Flight Status__:
+__6.0 Flight Status__: This section follows the same approach as I took in section 5 ut looks at flight status instead of the reasons for delay. By flight status I mean, flights diverted, canceled and on time.
+
+__Learnings__: Same as section 5.
+
+__Topics__: distplots, stripplots, Gumbel distribution, Scipy.
+
+---
+
+__7.0 Simulation__:
