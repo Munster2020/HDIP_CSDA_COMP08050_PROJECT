@@ -98,4 +98,12 @@ __Topics__: barplots, lmplots, airport capacity, col_wraps, sharex and sharey in
 
 ---
 
-__5.0 Detailed Analysis__: 
+__5.0 Detailed Analysis__: Section 5 looks at the variables in the dataset at a granular level. A correlation heatmap using Pearson’s Method displays graphically how the numerical variables are related. It also provides information on each of the Bureau of Statistics delay categories. For each category a distribution plot, boxplot and stripplot is produced as well as descriptive statistics. I also use SciPy stats module to identify a possible distribution which is used in NumPy to generate the data used to produce a synthetic dataset.
+
+__Learnings__: Where do I start? This section was both interesting and frustrating. I also began to doubt my choice of dataset. I was frustrated trying to identify a possible distribution fit to apply to the data and possibly spent too much time on this at the expense of using my time more productively on generating a synthetic dataset. I did however gain valuable insight into distplot formatting using “kws” and using SciPy stats. I also learned how to combine Seaborn boxplots and stripplots.
+
+__Topics__: heatmaps, Perason’s correlation method, stripplots, Gumbel distribution, Scipy.
+
+---
+
+__6.0 Flight Status__:
