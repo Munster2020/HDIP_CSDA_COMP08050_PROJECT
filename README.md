@@ -134,5 +134,5 @@ __Learnings__: Here I learned how to concatenate the two dataframes using "assig
 
 ### 4. Conclusion
 
-
+Overall I think I made a good attempt at creating a synthetic dataset for this project however I did make some errors along the way. I chose a real world phenomenon that could be measured and for which you could collect data points across at least four variables but I chose the wrong dataset in hindsight. In order to simulate the data I should have chosen a datset that recorded flights in a time series and had classification variables for each individual flight. If that was the case I could have used more functionality from the numpy.random.package. I could also have applied better distributions including poisson and binomial or exponential to detemine the outcome of each flight and aggregate the results. All in all it was an interesting project to work on and I definitely learned alot in developing the solution. 
 
